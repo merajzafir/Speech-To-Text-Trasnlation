@@ -1,1 +1,2 @@
 # Speech-To-Text-Trasnlation
+This project is all about Speech Conversion into Text. In this, I have used IBM Watson API SpeechToTextV1 for conversion purpose. The IBM® Speech to Text service provides APIs that use IBM's speech-recognition capabilities to produce transcripts of spoken audio. The service can transcribe speech from various languages and audio formats. In addition to basic transcription, the service can produce detailed information about many different aspects of the audio.
